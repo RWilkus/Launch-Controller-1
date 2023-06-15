@@ -6,6 +6,7 @@ Designer: Ryan Wilkus
 Audience: Cub Scouts/Scouts BSA
 
 Ordering:
+
 PCB - PCBWay.com
  - Upload Gerbers
  - 2 layer, 1.6mm thickness, FR-4 material, 1oz Cu, Black soldermask, White silkscreen, HASL with Lead surface finish
@@ -14,7 +15,11 @@ PCB - PCBWay.com
 Parts - Digikey.com
  - Upload BOM to purchase
 
-Assembly Instructions:
+3D printing:
+
+Resolution: 0.2mm, Infill: 20%, Filiment: 1.75mm Supports: Yes, Rafts: Yes, 
+
+PCB Assembly Instructions:
 
 Assemble and solder in order
 
