@@ -5,7 +5,8 @@ Designer: Ryan Wilkus
 
 Audience: Cub Scouts/Scouts BSA
 
-![LaunchController1](https://raw.githubusercontent.com/RWilkus/Launch-Controller-1/master/.github/LaunchControllerRevA.bmp)
+![LaunchControllerRevA](https://github.com/RWilkus/Launch-Controller-1/assets/20526768/1c3008b6-5721-49f9-a24c-6c375049c86a)
+
 
 Ordering:
 
