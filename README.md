@@ -9,6 +9,7 @@ Audience: Cub Scouts/Scouts BSA
 
 (Rev A Image)
 
+
 Ordering:
 
 PCB - [PCBWay.com](https://www.pcbway.com/QuickOrderOnline.aspx)
@@ -19,8 +20,9 @@ PCB - [PCBWay.com](https://www.pcbway.com/QuickOrderOnline.aspx)
 ![Screen Shot 2023-06-15 at 4 04 01 PM](https://github.com/RWilkus/Launch-Controller-1/assets/20526768/da932450-a6b3-4040-b75e-4d7213ec0eab)
 
 
-Parts - Digikey.com
- - Upload BOM to purchase
+Parts - [Digikey.com](https://www.digikey.com/ordering/shoppingcart?lang=en)
+ - Upload LaunchController1 BOM.xlsx to purchase
+
 
 
 3D printing:
@@ -29,6 +31,7 @@ Resolution: 0.2mm, Infill: 20%, Filiment: 1.75mm Supports: Yes, Rafts: Yes,
 
 
 PCB Assembly Instructions:
+
 
 Assemble and solder in order
 
