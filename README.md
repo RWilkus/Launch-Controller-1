@@ -4,6 +4,7 @@ Model Rocket Launch Controller
 Designer: Ryan Wilkus
 
 Audience: Cub Scouts/Scouts BSA
+![Model](https://github.com/RWilkus/Launch-Controller-1/commit/ce488b9aaa64221b43ff46c21f2eaf7bcee96991)
 
 Ordering:
 
@@ -15,9 +16,11 @@ PCB - PCBWay.com
 Parts - Digikey.com
  - Upload BOM to purchase
 
+
 3D printing:
 
 Resolution: 0.2mm, Infill: 20%, Filiment: 1.75mm Supports: Yes, Rafts: Yes, 
+
 
 PCB Assembly Instructions:
 
