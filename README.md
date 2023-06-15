@@ -4,7 +4,8 @@ Model Rocket Launch Controller
 Designer: Ryan Wilkus
 
 Audience: Cub Scouts/Scouts BSA
-![Model](https://github.com/RWilkus/Launch-Controller-1/commit/ce488b9aaa64221b43ff46c21f2eaf7bcee96991)
+
+![LaunchController1](https://raw.githubusercontent.com/RWilkus/Launch-Controller-1/master/.github/LaunchControllerRevA.bmp)
 
 Ordering:
 
