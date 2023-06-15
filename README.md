@@ -8,6 +8,7 @@ PCB - PCBWay.com
  - Upload Gerbers
  - 2 layer, 1.6mm thickness, FR-4 material, 1oz Cu, Black soldermask, White silkscreen, HASL with Lead surface finish
  - Adjust board quantity to find maximum boards per price. 10 boards was the same price as 1.
+
 Parts - Digikey.com
  - Upload BOM to purchase
 
